@@ -1,0 +1,20 @@
+{
+  "name": "guiaperguntas",
+  "version": "1.0.0",
+  "description": "Uma guia de perguntas e respostas ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Lucas Wendel",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "mysql2": "^2.0.0",
+    "sequelize": "^5.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
